@@ -3,7 +3,7 @@
  *
  * Dedicated to hosting scalable webservices.
  *
- * [../../examples/service-asg-alb](Example)
+ * [Example](../../examples/service-asg-alb)
  *
  */
 

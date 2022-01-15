@@ -4,7 +4,7 @@
  * Purpose of this module is to provide easy way to start any service using
  * single EC2 instance with Elastic IP.
  *
- * [../../examples/service-single-instance](Example)
+ * [Example](../../examples/service-single-instance)
  *
  */
 

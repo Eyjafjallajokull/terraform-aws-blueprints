@@ -4,7 +4,7 @@
  * Provide AutoScaling Group. This module does not define any webservice
  * ingress so is suitable for background processing.
  *
- * [../../examples/service-asg](Example)
+ * [Example](../../examples/service-asg)
  * 
  */
 

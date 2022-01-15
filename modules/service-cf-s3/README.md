@@ -1,7 +1,7 @@
 <!-- BEGIN_TF_DOCS -->
 # CloudFormation with S3 Origin
 
-[../../examples/service-cf-s3](Example)
+[Example](../../examples/service-cf-s3)
 
 ## Requirements
 

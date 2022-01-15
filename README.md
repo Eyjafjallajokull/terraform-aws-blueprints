@@ -6,10 +6,10 @@ and adopt".
 
 ## Modules
 
-- [modules/service-asg-alb](modules/service-asg-alb/README.md)
-- [modules/service-asg](modules/service-asg/README.md)
-- [modules/service-cf-s3](modules/service-cf-s3/README.md)
-- [modules/service-single-instance](modules/service-single-instance/README.md)
+- [modules/service-asg-alb](modules/service-asg-alb/)
+- [modules/service-asg](modules/service-asg/)
+- [modules/service-cf-s3](modules/service-cf-s3/)
+- [modules/service-single-instance](modules/service-single-instance/)
 
 ## Development
 
